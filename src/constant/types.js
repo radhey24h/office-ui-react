@@ -1,0 +1,13 @@
+const IS_FETCHED = 'IS_FETCHED';
+const FETCH_USERS = 'FETCH_USERS';
+const FETCH_USER = 'FETCH_USER';
+const FETCH_POSTS = 'FETCH_POSTS';
+const FETCH_POST = 'FETCH_POST';
+
+export {
+    IS_FETCHED,
+    FETCH_USERS,
+    FETCH_USER,
+    FETCH_POSTS,
+    FETCH_POST,
+}
